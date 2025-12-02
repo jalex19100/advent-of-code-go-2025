@@ -1,10 +1,15 @@
 package {{.Package}}
 
+import (
+	"strings"
+)
+
 const Year = {{.Year}}
 const Day  = {{.Day}}
 
 // Part1 solves the first part of the puzzle.
 func Part1(input string) int {
+    reader := strings.NewReader(input)
     return 0
 }
 
