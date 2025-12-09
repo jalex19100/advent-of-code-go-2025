@@ -11,7 +11,7 @@ var (
 	expectedSamplePart1 = 40
 	expectedSamplePart2 = 25272
 	expectedInputPart1  = 244188
-	expectedInputPart2  = 1
+	expectedInputPart2  = 8361881885
 )
 
 // readFile is a small helper to read a file or fail the test.
